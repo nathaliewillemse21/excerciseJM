@@ -1,0 +1,1 @@
+var John Smith = { hours:80, rates: R625}
